@@ -35,5 +35,4 @@ jej żadną licencją.
 Ostatnio zmieniłem silnik mojej przeglądarki na ten:
 https://www.teamdev.com/dotnetbrowser
 
-Oznacza to dodatkowe stosowanie się do warunków licecji LGPL. Nie do mojego projektu oczywiście tylko do
-nuxeo dotnet browser.
+Oznacza to dodatkowe stosowanie się do warunków licencji tego programu/biblioteki.
