@@ -1,8 +1,6 @@
 # netexplorer
 Open-source browser NetExplorer.
 
-[img]https://i.imgur.com/BUQlRog.png[/img]
-
 This is polish language. If you are not a Polish, do not read it.
 
 Mój program jest oparty na 3 klauzulowej licencji BSD. O jej zasadach możesz przeczytać na polskiej wikipedii.
