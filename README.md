@@ -1,7 +1,7 @@
 # netexplorer
 Open-source browser NetExplorer.
 
-![](https://imgur.com/nJ6149m)
+![](https://imgur.com/BUQlRog)
 
 This is polish language. If you are not a Polish, do not read it.
 
