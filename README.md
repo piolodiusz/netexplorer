@@ -29,10 +29,12 @@ modification, are permitted provided that the following conditions are met:
 zrobić film na youtubie PRZEGLĄDARKA PIOLODIUSZA NOWA WERSJA, bo nie zgadzałoby się to z licencją.
 
 Również mój projekt jest jedynie oparty na przeglądarce Imperatora. Polecam odwiedzić jego kanał na youtube,
-ponieważ robi dobre filmy. Zrobiłem NetExplorer, bo twórca zaprzestał rozpowszechniania przeglądarki, a nie zabezpieczył
+ponieważ robi dobre filmy:
+https://www.youtube.com/channel/UCmZOLBaKynoHmY4cdBq05Ew
+Zrobiłem NetExplorer, bo twórca zaprzestał rozpowszechniania przeglądarki, a nie zabezpieczył
 jej żadną licencją.
 
 Ostatnio zmieniłem silnik mojej przeglądarki na ten:
-https://www.teamdev.com/dotnetbrowser
+https://cefsharp.github.io
 
 Oznacza to dodatkowe stosowanie się do warunków licencji tego programu/biblioteki.
