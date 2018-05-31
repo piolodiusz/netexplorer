@@ -31,6 +31,7 @@ zrobić film na youtubie PRZEGLĄDARKA PIOLODIUSZA NOWA WERSJA, bo nie zgadzało
 Również mój projekt jest jedynie oparty na przeglądarce Imperatora. Polecam odwiedzić jego kanał na youtube,
 ponieważ robi dobre filmy:
 https://www.youtube.com/channel/UCmZOLBaKynoHmY4cdBq05Ew
+
 Zrobiłem NetExplorer, bo twórca zaprzestał rozpowszechniania przeglądarki, a nie zabezpieczył
 jej żadną licencją.
 
