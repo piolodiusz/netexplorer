@@ -6,7 +6,7 @@ This is polish language. If you are not a Polish, do not read it.
 Mój program jest oparty na licencji mpl 2.0. O jej zasadach możesz przeczytać tu:
 https://www.mozilla.org/en-US/MPL/
 Pozwalam oczywiście robić różne wersje NetExplorer oparte na moim projekcie. Jednak muszą przestrzegać
-zasad zawartych w tej licencji i musi zostać wydany ten program na licencji mpl, gpl, lgpl lub gnu agpl.
+zasad zawartych w tej licencji i musi zostać wydany ten program (w większości przypadków) na licencji mpl, gpl, lgpl lub agpl.
 
 Również mój projekt jest jedynie oparty na przeglądarce Imperatora. Polecam odwiedzić jego kanał na youtube,
 ponieważ robi dobre filmy:
