@@ -12,4 +12,4 @@ Również mój projekt jest jedynie oparty na przeglądarce Imperatora. Polecam 
 ponieważ robi dobre filmy:
 https://www.youtube.com/channel/UCmZOLBaKynoHmY4cdBq05Ew
 
-Zrobiłem NetExplorer, bo twórca zaprzestał rozpowszechniania przeglądarki, dołączył serię poradników, jak ją stworzyć.
+Zrobiłem NetExplorer, bo twórca zaprzestał rozpowszechniania przeglądarki a dołączył serię poradników, jak ją stworzyć.
