@@ -12,10 +12,4 @@ Również mój projekt jest jedynie oparty na przeglądarce Imperatora. Polecam 
 ponieważ robi dobre filmy:
 https://www.youtube.com/channel/UCmZOLBaKynoHmY4cdBq05Ew
 
-Zrobiłem NetExplorer, bo twórca zaprzestał rozpowszechniania przeglądarki, a nie zabezpieczył
-jej żadną licencją.
-
-Ostatnio zmieniłem silnik mojej przeglądarki na ten:
-https://cefsharp.github.io
-
-Oznacza to dodatkowe stosowanie się do warunków licencji tego programu/biblioteki.
+Zrobiłem NetExplorer, bo twórca zaprzestał rozpowszechniania przeglądarki, dołączył serię poradników, jak ją stworzyć.
